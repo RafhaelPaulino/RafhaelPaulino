@@ -1,6 +1,5 @@
 # Rafhael
 
-[![Name](https://img.shields.io/badge/Rafhael-000000?style=for-the-badge)]()
 [![Email](https://img.shields.io/badge/rafhael@sttelar.pro-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafhael@sttelar.pro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafhael-paulino-14271136b/)
 
