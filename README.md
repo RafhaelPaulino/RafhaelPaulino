@@ -9,7 +9,7 @@ My experience includes working with both frontend and backend technologies, ensu
 I have strong expertise in:
 - Automation workflows using **n8n**
 - Frontend development with **HTML**, **CSS**, **JavaScript**, **TypeScript**, and **React**
-- Backend development with **Node.js** and **SQL**
+- Backend development with **Node.js**, **TypeScript** and **SQL**
 - API integrations and system optimization
 
 ---
