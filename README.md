@@ -14,14 +14,10 @@ I have strong expertise in:
 
 ---
 
-## 📊 GitHub Stats
-
 ![Rafhael's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafhaelPaulino&theme=tokyonight)
 ![Rafhael's GitHub Grade](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafhaelPaulino&theme=tokyonight)
 
 ---
-
-## 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafhaelPaulino&layout=compact&theme=tokyonight&hide_border=true)
 
