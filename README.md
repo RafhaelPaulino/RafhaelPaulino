@@ -2,24 +2,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafhael-paulino-14271136b/)
 
-I am a Full Stack Developer passionate about building innovative and efficient digital solutions.  
-I specialize in integrating Artificial Intelligence into business processes, automation workflows, and modern web applications.  
-My experience includes working with both frontend and backend technologies, ensuring robust, scalable, and user-friendly solutions.
+I am a Full Stack Developer focused on building fast, scalable and intelligent digital solutions.  
+I work with automation, AI integration using n8n, and full web development across frontend and backend.
 
-I have strong expertise in:
-- Automation workflows using **n8n**
-- Frontend development with **HTML**, **CSS**, **JavaScript**, **TypeScript**, and **React**
-- Backend development with **Node.js**, **TypeScript** and **SQL**
-- API integrations and system optimization
+My daily stack includes TypeScript, Node.js, React, PostgreSQL and workflow automation.
 
 ---
 
 ![Rafhael's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafhaelPaulino&theme=tokyonight)
 ![Rafhael's GitHub Grade](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafhaelPaulino&theme=tokyonight)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafhaelPaulino&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
